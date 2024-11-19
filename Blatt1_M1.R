@@ -2,7 +2,9 @@ library(ggplot2)
 library(readr)
 library(tidyverse)
 
-setwd("~/Desktop/Statistik_AG/Blatt1")
+#setwd("~/Desktop/Statistik_AG/Blatt1")
+
+print("test")
 
 # Microsoft Daten einlesen
 MicrosoftData <- read_csv("MicrosoftData.csv", 
