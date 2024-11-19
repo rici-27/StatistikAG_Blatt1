@@ -3,6 +3,7 @@ library(readr)
 library(tidyverse)
 
 #setwd("~/Desktop/Statistik_AG/Blatt1")
+#setwd("C:/Users/Anwender/Desktop/Statistik AG/Blatt1")
 
 print("test")
 
